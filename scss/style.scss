@@ -224,9 +224,10 @@ h1, h2, h3, h4, h5,
 	  color: rgba(0,0,0,.2);
 	}
 }
-
+//Esto fue lo q modifique
 /* Style the checkmark/indicator */
 .checkbox-wrap .checkmark:after {
+	color: $primary;
 }
 
 
